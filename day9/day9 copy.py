@@ -3,8 +3,6 @@ input = file
 
 # solve advent of code day 9 part 1
 
-def check_for_low_points(y, x, y1, x1):
-    if input_list[y][x]
 
 input_list, low_points, answer = [] ,[], 0
 
@@ -51,3 +49,5 @@ for i in range(len(low_points)):
     answer += (int(low_points[i]) + 1)
 
 print(answer)
+
+# haha ha ha h

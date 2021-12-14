@@ -49,3 +49,7 @@ for i in range(len(low_points)):
     answer += (int(low_points[i]) + 1)
 
 print(answer)
+
+
+# is this the best way to do this?
+# no it is not the best way to do this
